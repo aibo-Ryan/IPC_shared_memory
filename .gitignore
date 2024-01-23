@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# ros catkin_make
+build
+devel
+install
+.vscode
+cmake-build-debug
+.clion
