@@ -38,3 +38,4 @@ install
 .vscode
 cmake-build-debug
 .clion
+.catkin_workspace
